@@ -1,0 +1,193 @@
+{
+  "pictures": [
+    {
+      "name": "Kitchen - Main JT Cover",
+      "project_type": "kitchen",
+      "order": 1,
+      "file": "kitchens/kitchen-main-jt-cover.jpg",
+      "url": "https://raw.githubusercontent.com/designprolibrary/dp-proposal-images/main/kitchens/kitchen-main-jt-cover.jpg"
+    },
+    {
+      "name": "Kitchen - Modern",
+      "project_type": "kitchen",
+      "order": 2,
+      "file": "kitchens/kitchen-modern.jpg",
+      "url": "https://raw.githubusercontent.com/designprolibrary/dp-proposal-images/main/kitchens/kitchen-modern.jpg"
+    },
+    {
+      "name": "Kitchen - Open Concept",
+      "project_type": "kitchen",
+      "order": 3,
+      "file": "kitchens/kitchen-open-concept.jpg",
+      "url": "https://raw.githubusercontent.com/designprolibrary/dp-proposal-images/main/kitchens/kitchen-open-concept.jpg"
+    },
+    {
+      "name": "Kitchen - White Oak Island",
+      "project_type": "kitchen",
+      "order": 4,
+      "file": "kitchens/kitchen-white-oak-island.jpg",
+      "url": "https://raw.githubusercontent.com/designprolibrary/dp-proposal-images/main/kitchens/kitchen-white-oak-island.jpg"
+    },
+    {
+      "name": "Kitchen - Green Island",
+      "project_type": "kitchen",
+      "order": 5,
+      "file": "kitchens/kitchen-green-island.jpg",
+      "url": "https://raw.githubusercontent.com/designprolibrary/dp-proposal-images/main/kitchens/kitchen-green-island.jpg"
+    },
+    {
+      "name": "Kitchen - Waterfall Island",
+      "project_type": "kitchen",
+      "order": 6,
+      "file": "kitchens/kitchen-waterfall-island.jpg",
+      "url": "https://raw.githubusercontent.com/designprolibrary/dp-proposal-images/main/kitchens/kitchen-waterfall-island.jpg"
+    },
+    {
+      "name": "Bathroom - Modern Light",
+      "project_type": "bath",
+      "order": 1,
+      "file": "bathrooms/bathroom-modern-light.jpg",
+      "url": "https://raw.githubusercontent.com/designprolibrary/dp-proposal-images/main/bathrooms/bathroom-modern-light.jpg"
+    },
+    {
+      "name": "Bathroom - Modern Dark",
+      "project_type": "bath",
+      "order": 2,
+      "file": "bathrooms/bathroom-modern-dark.jpg",
+      "url": "https://raw.githubusercontent.com/designprolibrary/dp-proposal-images/main/bathrooms/bathroom-modern-dark.jpg"
+    },
+    {
+      "name": "Bathroom - Transitional",
+      "project_type": "bath",
+      "order": 3,
+      "file": "bathrooms/bathroom-transitional.jpg",
+      "url": "https://raw.githubusercontent.com/designprolibrary/dp-proposal-images/main/bathrooms/bathroom-transitional.jpg"
+    },
+    {
+      "name": "Bathroom - White Oak Vanity",
+      "project_type": "bath",
+      "order": 4,
+      "file": "bathrooms/bathroom-white-oak-vanity.jpg",
+      "url": "https://raw.githubusercontent.com/designprolibrary/dp-proposal-images/main/bathrooms/bathroom-white-oak-vanity.jpg"
+    },
+    {
+      "name": "Basement - Main Pic",
+      "project_type": "basement",
+      "order": 1,
+      "file": "basements/basement-main-pic.jpg",
+      "url": "https://raw.githubusercontent.com/designprolibrary/dp-proposal-images/main/basements/basement-main-pic.jpg"
+    },
+    {
+      "name": "Basement - Wet Bar",
+      "project_type": "basement",
+      "order": 2,
+      "file": "basements/basement-wet-bar.jpg",
+      "url": "https://raw.githubusercontent.com/designprolibrary/dp-proposal-images/main/basements/basement-wet-bar.jpg"
+    },
+    {
+      "name": "Market Prep - Kitchen",
+      "project_type": "market prep",
+      "order": 1,
+      "file": "market-prep/market-prep-kitchen.jpg",
+      "url": "https://raw.githubusercontent.com/designprolibrary/dp-proposal-images/main/market-prep/market-prep-kitchen.jpg"
+    },
+    {
+      "name": "Market Prep - Kitchen 2",
+      "project_type": "market prep",
+      "order": 2,
+      "file": "market-prep/market-prep-kitchen-1.jpg",
+      "url": "https://raw.githubusercontent.com/designprolibrary/dp-proposal-images/main/market-prep/market-prep-kitchen-1.jpg"
+    },
+    {
+      "name": "Market Prep - Primary Bath Double Vanity",
+      "project_type": "market prep",
+      "order": 3,
+      "file": "market-prep/market-prep-primary-bath-double-vanity.jpg",
+      "url": "https://raw.githubusercontent.com/designprolibrary/dp-proposal-images/main/market-prep/market-prep-primary-bath-double-vanity.jpg"
+    },
+    {
+      "name": "Market Prep - Bathroom",
+      "project_type": "market prep",
+      "order": 4,
+      "file": "market-prep/market-prep-bathroom.jpg",
+      "url": "https://raw.githubusercontent.com/designprolibrary/dp-proposal-images/main/market-prep/market-prep-bathroom.jpg"
+    },
+    {
+      "name": "Market Prep - Kitchen Island",
+      "project_type": "market prep",
+      "order": 5,
+      "file": "market-prep/market-prep-kitchen-island.jpg",
+      "url": "https://raw.githubusercontent.com/designprolibrary/dp-proposal-images/main/market-prep/market-prep-kitchen-island.jpg"
+    },
+    {
+      "name": "Exterior - Light Siding",
+      "project_type": "exterior",
+      "order": 1,
+      "file": "exteriors/exterior-light-siding.jpg",
+      "url": "https://raw.githubusercontent.com/designprolibrary/dp-proposal-images/main/exteriors/exterior-light-siding.jpg"
+    },
+    {
+      "name": "Exterior - Dark Siding",
+      "project_type": "exterior",
+      "order": 2,
+      "file": "exteriors/exterior-dark-siding.jpg",
+      "url": "https://raw.githubusercontent.com/designprolibrary/dp-proposal-images/main/exteriors/exterior-dark-siding.jpg"
+    },
+    {
+      "name": "Main Level - Open Concept",
+      "project_type": "main level",
+      "order": 1,
+      "file": "main-level/main-level-open-concept.jpg",
+      "url": "https://raw.githubusercontent.com/designprolibrary/dp-proposal-images/main/main-level/main-level-open-concept.jpg"
+    },
+    {
+      "name": "Main Level - Traditional",
+      "project_type": "main level",
+      "order": 2,
+      "file": "main-level/main-level-traditional.jpg",
+      "url": "https://raw.githubusercontent.com/designprolibrary/dp-proposal-images/main/main-level/main-level-traditional.jpg"
+    },
+    {
+      "name": "Main Level - Fireplace Modern",
+      "project_type": "main level",
+      "order": 3,
+      "file": "main-level/main-level-fireplace-modern.jpg",
+      "url": "https://raw.githubusercontent.com/designprolibrary/dp-proposal-images/main/main-level/main-level-fireplace-modern.jpg"
+    },
+    {
+      "name": "Main Level - Coffered Ceiling",
+      "project_type": "main level",
+      "order": 4,
+      "file": "main-level/main-level-coffered-ceiling.jpg",
+      "url": "https://raw.githubusercontent.com/designprolibrary/dp-proposal-images/main/main-level/main-level-coffered-ceiling.jpg"
+    },
+    {
+      "name": "Flooring - Bedroom",
+      "project_type": "flooring",
+      "order": 1,
+      "file": "flooring/flooring-bedroom.jpg",
+      "url": "https://raw.githubusercontent.com/designprolibrary/dp-proposal-images/main/flooring/flooring-bedroom.jpg"
+    },
+    {
+      "name": "Flooring - Foyer + Black Railings",
+      "project_type": "flooring",
+      "order": 2,
+      "file": "flooring/flooring-foyer-black-railings.jpg",
+      "url": "https://raw.githubusercontent.com/designprolibrary/dp-proposal-images/main/flooring/flooring-foyer-black-railings.jpg"
+    },
+    {
+      "name": "Flooring - Herringbone Custom Detail",
+      "project_type": "flooring",
+      "order": 3,
+      "file": "flooring/flooring-herringbone-custom-detail.jpg",
+      "url": "https://raw.githubusercontent.com/designprolibrary/dp-proposal-images/main/flooring/flooring-herringbone-custom-detail.jpg"
+    },
+    {
+      "name": "Flooring - Loft + Railing",
+      "project_type": "flooring",
+      "order": 4,
+      "file": "flooring/flooring-loft-railing.jpg",
+      "url": "https://raw.githubusercontent.com/designprolibrary/dp-proposal-images/main/flooring/flooring-loft-railing.jpg"
+    }
+  ]
+}
